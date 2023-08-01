@@ -1,0 +1,25 @@
+name: ChatFormatting
+version: '${project.version}'
+main: org.echo.chatformatting.Main
+api-version: '1.16'
+
+author: Echo24h
+description: A plugin to allow players to format chat
+
+permissions:
+  chatformatting.reload:
+    description: Allows you to reload ChatFormatting plugin
+    default: op
+  chatformatting.*:
+    description: Wildcard permission
+    default: op
+    children:
+      - chatformatting.reload: true
+
+commands:
+  chat:
+    subcommands:
+      reload:
+        description: Reload ChatFormatting plugin
+        usage: /<command> reload
+        permission: chatformatting.reload
