@@ -20,11 +20,12 @@ The ChatFormatting plugin is a powerful solution that revolutionizes how players
 
 ## Videos
 
+For our dear English viewers! The video is in French, but the code speaks for itself, and it's translate into English! I hope you enjoy the tutorial! ;)
+
 #1. System and custom colors
 
-The video is slow, I'm sorry it's better in the second! prepare a coffee and put in x2!
-
 [Watch the video here](https://youtu.be/UMJwc5YW_5g)
+The video is slow, I'm sorry it's better in the second! prepare a coffee and put in x2!
 
 #2. Gradients
 
