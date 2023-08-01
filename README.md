@@ -16,7 +16,7 @@ The ChatFormatting plugin is a powerful solution that revolutionizes how players
 
 ## Chat Usage
 
-- `&l`, `&S`, `&X`, etc...: Allow using basic and custom color codes in the chat.
+- `&l`, `&S`, `&X`, etc...: Allow using basic and custom colors and gradients codes in the chat.
 
 ## Videos
 
